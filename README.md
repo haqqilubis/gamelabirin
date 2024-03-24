@@ -1,2 +1,2 @@
 # gamelabirin
-game labirin
+game labirin adalah game apa
