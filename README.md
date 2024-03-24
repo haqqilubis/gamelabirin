@@ -1,3 +1,3 @@
 # gamelabirin
 game labirin adalah game apa
-new information
+new information informasi baru
